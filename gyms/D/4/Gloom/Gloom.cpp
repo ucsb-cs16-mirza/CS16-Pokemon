@@ -5,6 +5,6 @@ uint32 checksum() {
 }
 
 int main() {
-    Pokemon( "Snivy", checksum );
+    Pokemon( "Gloom", checksum );
     return 0;
 }

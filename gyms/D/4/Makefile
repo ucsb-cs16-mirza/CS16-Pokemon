@@ -1,6 +1,6 @@
 CXX=g++
 CXXFLAGS=--std=c++11
-POKEMON=Snivy
+POKEMON=Gloom
 
 all: main
 	./main
