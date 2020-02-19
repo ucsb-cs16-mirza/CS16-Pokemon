@@ -6,7 +6,7 @@ Author: Jared Flores
 - Inside the /gyms folder, you'll find folders A, B, C, and D
 - The letter corresponds to the tier. A is the highest (hard), D is the lowest (easy)
 - Inside each tier, you'll find four folders, 1, 2, 3, and 4. Each correspond with a Pokemon
-- Inside any of those numbered folders (for instance /D/1) there is a main.cpp
+- Inside any of those numbered folders (for instance /D/1) there is a `main.cpp`
 - All of the challenge & code will be in `main.cpp`; modify that file to solve the challenge
 - Once you're ready, run `make`, and that will compile & run the Pokemon catch
 
