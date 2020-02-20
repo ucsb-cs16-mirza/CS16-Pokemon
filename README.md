@@ -20,12 +20,12 @@ Your code is: Pikachu-048B
 ```  
 
 
-This code will be used to figure out if you actually solved the problem correctly.  
+This code, the Capture Code, will be used to figure out if you actually solved the problem correctly.  
 There may also be a line in the code `POKEMON`, this is used by the internal grading algorithm,
 so don't remove that!  
 
 
-To check your code, visit: <https://jay-red.github.io/CS16-Pokemon/>
+To check your Capture Code, visit: <https://jay-red.github.io/CS16-Pokemon/>
 
 
 Have fun!
