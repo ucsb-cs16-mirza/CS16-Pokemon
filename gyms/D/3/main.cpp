@@ -6,7 +6,7 @@ void* catchMe() {
 
     // If the address of arr is 0x7000, what is the address of the element, 20
     // Assume sizeof(int) is 4
-    ADDRESS = 0x????;
+    ADDRESS = 0x????; // STUB: Replace 0x???? with the actual address
 
     // Don't touch this! This lets you catch the pokemon
     POKEBALL

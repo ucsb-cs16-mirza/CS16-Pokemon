@@ -9,7 +9,7 @@ void* catchMe() {
     ptr++;
 
     // If the address of arr is 0x7000, what is the address stored in ptr?
-    ADDRESS = 0x????;
+    ADDRESS = 0x????; // STUB: Replace 0x???? with the actual address
 
     // Don't touch this! This lets you catch the pokemon
     POKEBALL
