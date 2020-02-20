@@ -1,4 +1,4 @@
-# CS16 Pokemon Challenge
+# Pokemon Code
 ## Gotta Catch 'Em All!
 Author: Jared Flores  
 
