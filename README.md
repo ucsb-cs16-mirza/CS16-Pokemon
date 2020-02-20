@@ -25,4 +25,7 @@ There may also be a line in the code `POKEMON`, this is used by the internal gra
 so don't remove that!  
 
 
+To check your code, visit: <https://jay-red.github.io/CS16-Pokemon/>
+
+
 Have fun!
